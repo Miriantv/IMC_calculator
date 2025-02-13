@@ -9,6 +9,8 @@
     android:gravity="center"
     tools:context=".ResultActivity">
 
+    
+
 
     <TextView
         android:id="@+id/tv_result"
